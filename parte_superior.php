@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="English"
+<html lang="English">
 
     <head>
 
@@ -11,22 +11,17 @@
         </title>
         
         <link rel="stylesheet" href="./styles/main.css">
+
     </head>
 
     <menu>
 
         <div class="menu-izquierda">
-            
-            <a href="./index.php">
-                
+            <a href="https:www.google.com">
                 <img src="./images/homer.png" alt="">
-
-
             </a>
-            
-            <img src=".images/homer.png" alt="">
-
+            <p class="text-menu-izquierda">Homero Simpson</p>
         </div>
-
     </menu>
 
+</html>

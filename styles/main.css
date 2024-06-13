@@ -7,18 +7,19 @@
 
 .menu-izquierda {
 
-    background:brown;
+    background:cadetblue;
     width: 100%;
-    height: 125px;
+    height: 100px;
     display:flex;
     flex-direction: column;
     align-items: center;
 
 }
 
-.menu-izquierda.img {
+.menu-izquierda img {
 
-    width: 20px;
+    width: 80px;
+    height: 60px;
 
 }
 
