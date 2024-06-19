@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="English">
+<html lang="en">
 
     <head>
 
         <meta charset="utf-8">
         <meta name="Proyecto de Tercera I" content="Pagina de Inicio">
         
-        <title>
+        <!-- <title>
             Tercera 1
-        </title>
+        </title> -->
         
         <link rel="stylesheet" href="./styles/main.css">
 
@@ -18,9 +18,15 @@
 
         <div class="menu-izquierda">
             <a href="https:www.google.com">
-                <img src="./images/homer.png" alt="">
+                <img src="./images/logo-1.png" alt="">
             </a>
-            <p class="text-menu-izquierda">Homero Simpson</p>
+            <!-- <p class="text-menu-izquierda">
+                Universidad
+            </p> -->
+        </div>
+        
+        <div class="menu-derecha">
+
         </div>
     </menu>
 
