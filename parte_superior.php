@@ -18,17 +18,28 @@
 
         <div class="menu-izquierda">
             <a href="">
-                <img src="./images/logo-1.png" alt="">
+                <img src="./images/logo.png" alt="">
             </a>
             <!-- <p class="text-menu-izquierda">
                 Universidad
             </p> -->
         </div>
-        
-        <div class="menu-derecha">
 
-            <a class ="enlaces-menu-derecha" href="https:www.google.com">Primer Ingreso</a>
-            <a class ="enlaces-menu-derecha" href="https:www.google.com">Aula En Línea</a>
+        <div class="menu-container">
+        
+            <div class="menu-derecha">
+
+                <a class ="enlaces-menu-derecha" href="https:www.google.com">Primer Ingreso</a>
+                <a class ="enlaces-menu-derecha" href="https:www.google.com">Aula En Línea</a>
+
+            </div>
+            
+            <div class="hamburger-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+
         </div>
     </menu>
 
