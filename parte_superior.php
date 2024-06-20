@@ -17,7 +17,7 @@
     <menu>
 
         <div class="menu-izquierda">
-            <a href="https:www.google.com">
+            <a href="">
                 <img src="./images/logo-1.png" alt="">
             </a>
             <!-- <p class="text-menu-izquierda">
@@ -27,6 +27,8 @@
         
         <div class="menu-derecha">
 
+            <a class ="enlaces-menu-derecha" href="https:www.google.com">Primer Ingreso</a>
+            <a class ="enlaces-menu-derecha" href="https:www.google.com">Aula En Línea</a>
         </div>
     </menu>
 

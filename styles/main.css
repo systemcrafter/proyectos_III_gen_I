@@ -21,16 +21,18 @@ menu {
 
 .menu-izquierda {
 
-    background:burlywood;
+    /* background:burlywood; */
     width: 50%;
     height: 200px;
     display:flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     margin-top: 30px;
+    margin-left: 120px;
 
 }
+
 
 .menu-izquierda img {
 
@@ -42,16 +44,44 @@ menu {
 
 .menu-derecha{
 
-    background:white;
+    /* background:burlywood; */
     width: 50%;
     height: 200px;
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: flex-end;
     align-items: center;
-    justify-content: center;
     margin-top: 30px;
-    background-color: bisque;
+    margin-right: 120px;
+}
 
+.enlaces-menu-derecha{
+   text-decoration: none; 
+   font-family: "Roboto", Sans-serif;
+   font-size: 14px;
+   font-weight: 500;
+   text-transform: uppercase;
+   color: #273272;
+   padding: 0px 15px 0px 15px;
+}
+
+.enlaces-menu-derecha:hover {
+    color: #FF5733; 
+ }
+
+.titulo{
+background-color: aquamarine;
+width: 100%;
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.titulo p{
+    width: 600px;
+    text-align: center;
+    font-size: 30px;
 }
 
 }
