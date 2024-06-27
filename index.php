@@ -11,6 +11,10 @@
         <img src="./images/online-class.jpg" alt="">
     </div>
 
+    <div class="main-accordion-container">
+    </div>
+
+
 </body>
 
 <?php require_once "./parte_inferior.php" ?>
